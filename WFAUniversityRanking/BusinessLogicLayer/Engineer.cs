@@ -8,14 +8,16 @@ namespace BusinessLogicLayer
 {
     public class Engineer : Person
     {
+        private int qualificationCategory; // I, II, III-категория
         private int countOfTestedComputers;
         private double totalWorkingHours;
 
         public Engineer() { }
 
-        public Engineer(string surname, string name, string middleName, int id)
+        public Engineer(string surname, string name, string middleName, int id, int qualification)
             : base(surname, name, middleName, id)
         {
+            this.qualificationCategory = qualification;
         }
 
         public int CountOfTestedComputers { get => countOfTestedComputers; set => countOfTestedComputers = value; }
@@ -23,7 +25,10 @@ namespace BusinessLogicLayer
 
         public override double ScoresCalculation()
         {
-            return Math.Round(countOfTestedComputers * 0.34 / totalWorkingHours, 1);
+            if (totalWorkingHours == 0)
+                throw new Exception("Деление на 0 невозможно");
+            else
+                return Math.Round(countOfTestedComputers * 0.34 / totalWorkingHours, 1);
         }
     }
 }
