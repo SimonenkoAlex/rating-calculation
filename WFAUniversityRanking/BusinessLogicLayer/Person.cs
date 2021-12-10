@@ -28,12 +28,13 @@ namespace BusinessLogicLayer
 
         public string getSurnameAndInitials()
         {
-            return firstName + " " + secondName.Substring(0, 1) + "." + patronymic[0];
+            return firstName + " " + secondName.Substring(0, 1) + "." + patronymic[0] + ".";
         }
 
-        public virtual void ScoresCalculation()
+        public virtual double ScoresCalculation()
         {
-
+            Console.WriteLine("У вневузовского человека нет рейтинга!");
+            return 0;
         }
     }
 }

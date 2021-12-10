@@ -21,9 +21,9 @@ namespace BusinessLogicLayer
         public int CountOfTestedComputers { get => countOfTestedComputers; set => countOfTestedComputers = value; }
         public double TotalWorkingHours { get => totalWorkingHours; set => totalWorkingHours = value; }
 
-        public override void ScoresCalculation()
+        public override double ScoresCalculation()
         {
-            double rating = countOfTestedComputers * 0.34 / totalWorkingHours;
+            return Math.Round(countOfTestedComputers * 0.34 / totalWorkingHours, 1);
         }
     }
 }

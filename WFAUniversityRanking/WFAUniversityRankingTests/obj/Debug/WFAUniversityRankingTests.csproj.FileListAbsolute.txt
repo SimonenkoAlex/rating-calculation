@@ -1,0 +1,14 @@
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\WFAUniversityRankingTests.dll
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\WFAUniversityRankingTests.pdb
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\BusinessLogicLayer.dll
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\nunit.framework.dll
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\WFAUniversityRanking.exe
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\BusinessLogicLayer.pdb
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\WFAUniversityRanking.pdb
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\WFAUniversityRanking.exe.config
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\nunit.framework.xml
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.csprojAssemblyReference.cache
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.csproj.CoreCompileInputs.cache
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.csproj.CopyComplete
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.dll
+E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.pdb

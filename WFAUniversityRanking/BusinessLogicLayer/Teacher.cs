@@ -26,9 +26,9 @@ namespace BusinessLogicLayer
         public int CountOfPublications { get => countOfPublications; set => countOfPublications = value; }
         public int CountOfGuidelines { get => countOfGuidelines; set => countOfGuidelines = value; }
 
-        public override void ScoresCalculation()
+        public override double ScoresCalculation()
         {
-            double rating = countOfPublications * 0.45 + countOfGuidelines * 0.21;
+            return Math.Round(countOfPublications * 0.45 + countOfGuidelines * 0.21, 1);
         }
     }
 }

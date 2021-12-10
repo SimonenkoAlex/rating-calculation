@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAUniversityRanking", "WFA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{B02B071C-A156-47A7-A3E0-AC03BBE75F53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAUniversityRankingTests", "WFAUniversityRankingTests\WFAUniversityRankingTests.csproj", "{A9E62639-B7BC-41C8-B641-9818CEB33FC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B02B071C-A156-47A7-A3E0-AC03BBE75F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B02B071C-A156-47A7-A3E0-AC03BBE75F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B02B071C-A156-47A7-A3E0-AC03BBE75F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E62639-B7BC-41C8-B641-9818CEB33FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E62639-B7BC-41C8-B641-9818CEB33FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E62639-B7BC-41C8-B641-9818CEB33FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E62639-B7BC-41C8-B641-9818CEB33FC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

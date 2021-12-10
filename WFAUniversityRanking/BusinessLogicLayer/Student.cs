@@ -23,13 +23,14 @@ namespace BusinessLogicLayer
 
         public List<int> ScoresFotTestWeek { get => scoresFotTestWeek; set => scoresFotTestWeek = value; }
 
-        public override void ScoresCalculation()
+        public override double ScoresCalculation()
         {
             int rating = 0;
             foreach (int score in ScoresFotTestWeek)
             {
                 rating = rating + score;
             }
+            return rating;
         }
     }
 }
