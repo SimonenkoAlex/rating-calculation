@@ -2,7 +2,7 @@
 
 namespace BusinessLogicLayer
 {
-    public class Person
+    public abstract class Person : IPerson
     {
         private string firstName;
         private string secondName;
