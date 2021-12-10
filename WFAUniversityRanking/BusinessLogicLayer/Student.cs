@@ -19,6 +19,7 @@ namespace BusinessLogicLayer
         {
             this.nameOfGroup = nameOfGroup;
             this.course = course;
+            this.scoresFotTestWeek = new List<int>();
         }
 
         public List<int> ScoresFotTestWeek { get => scoresFotTestWeek; set => scoresFotTestWeek = value; }
