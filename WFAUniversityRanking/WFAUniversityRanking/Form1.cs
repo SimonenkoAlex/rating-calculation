@@ -17,5 +17,14 @@ namespace WFAUniversityRanking
         {
             InitializeComponent();
         }
+
+        private void btnResult_Click(object sender, EventArgs e)
+        {
+            string firstName = tBFirstname.Text;
+            string secondName = tBSecondname.Text;
+            string pathronymic = tBPatronymic.Text;
+            Student student = new Student(firstName, secondName, pathronymic, 3, "ИВТм-212", 1);
+            rTBOutput.Text = student.getSurnameAndInitials();
+        }
     }
 }
