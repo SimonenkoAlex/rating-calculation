@@ -21,10 +21,12 @@ namespace BusinessLogicLayer
             this.course = course;
         }
 
+        public List<int> ScoresFotTestWeek { get => scoresFotTestWeek; set => scoresFotTestWeek = value; }
+
         public override void ScoresCalculation()
         {
             int rating = 0;
-            foreach (int score in scoresFotTestWeek)
+            foreach (int score in ScoresFotTestWeek)
             {
                 rating = rating + score;
             }

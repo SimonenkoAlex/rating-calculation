@@ -23,9 +23,12 @@ namespace BusinessLogicLayer
             this.degree = degree;
         }
 
+        public int CountOfPublications { get => countOfPublications; set => countOfPublications = value; }
+        public int CountOfGuidelines { get => countOfGuidelines; set => countOfGuidelines = value; }
+
         public override void ScoresCalculation()
         {
-
+            double rating = countOfPublications * 0.45 + countOfGuidelines * 0.21;
         }
     }
 }

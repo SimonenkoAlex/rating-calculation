@@ -8,5 +8,22 @@ namespace BusinessLogicLayer
 {
     public class Engineer : Person
     {
+        private int countOfTestedComputers;
+        private double totalWorkingHours;
+
+        public Engineer() { }
+
+        public Engineer(string surname, string name, string middleName, int id)
+            : base(surname, name, middleName, id)
+        {
+        }
+
+        public int CountOfTestedComputers { get => countOfTestedComputers; set => countOfTestedComputers = value; }
+        public double TotalWorkingHours { get => totalWorkingHours; set => totalWorkingHours = value; }
+
+        public override void ScoresCalculation()
+        {
+            double rating = countOfTestedComputers * 0.34 / totalWorkingHours;
+        }
     }
 }
