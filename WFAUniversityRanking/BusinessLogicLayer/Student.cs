@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace BusinessLogicLayer
 {
@@ -12,9 +8,10 @@ namespace BusinessLogicLayer
         private int course;
         private List<int> scoresFotTestWeek;
 
-        public Student() { }
+        public Student() : base() { }
 
-        public Student(string surname, string name, string middleName, int id, string nameOfGroup, int course)
+        public Student(string surname, string name, string middleName, 
+            int id, string nameOfGroup, int course)
             : base(surname, name, middleName, id)
         {
             this.nameOfGroup = nameOfGroup;

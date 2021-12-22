@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BusinessLogicLayer
 {
@@ -12,7 +8,7 @@ namespace BusinessLogicLayer
         private int countOfTestedComputers;
         private double totalWorkingHours;
 
-        public Engineer() { }
+        public Engineer() : base() { }
 
         public Engineer(string surname, string name, string middleName, int id, int qualification)
             : base(surname, name, middleName, id)

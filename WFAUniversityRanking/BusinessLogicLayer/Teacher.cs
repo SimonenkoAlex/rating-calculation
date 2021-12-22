@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BusinessLogicLayer
 {
@@ -13,7 +9,7 @@ namespace BusinessLogicLayer
         private int countOfPublications;
         private int countOfGuidelines;
 
-        public Teacher() { }
+        public Teacher() : base() { }
 
         public Teacher(string surname, string name, string middleName,
             int id, string position, string degree)

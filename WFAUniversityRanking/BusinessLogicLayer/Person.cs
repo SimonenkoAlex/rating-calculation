@@ -33,8 +33,8 @@ namespace BusinessLogicLayer
 
         public virtual double ScoresCalculation()
         {
-            Console.WriteLine("У вневузовского человека нет рейтинга!");
-            return 0;
+            throw new Exception("У вневузовского человека нет рейтинга!");
+            //return 0;
         }
     }
 }
