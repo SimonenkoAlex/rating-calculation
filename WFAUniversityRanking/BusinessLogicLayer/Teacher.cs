@@ -19,12 +19,18 @@ namespace BusinessLogicLayer
             this.degree = degree;
         }
 
+<<<<<<< Updated upstream
         public int CountOfPublications { get => countOfPublications; set => countOfPublications = value; }
         public int CountOfGuidelines { get => countOfGuidelines; set => countOfGuidelines = value; }
 
         public override double ScoresCalculation()
         {
             return Math.Round(countOfPublications * 0.45 + countOfGuidelines * 0.21, 1);
+=======
+        public override double ScoresCalculation()
+        {
+            return (0.56 * countOfPublications + 0.12 * countOfGuidelines);
+>>>>>>> Stashed changes
         }
     }
 }

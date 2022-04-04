@@ -33,8 +33,12 @@ namespace BusinessLogicLayer
 
         public virtual double ScoresCalculation()
         {
+<<<<<<< Updated upstream
             throw new Exception("У вневузовского человека нет рейтинга!");
             //return 0;
+=======
+            return 0;
+>>>>>>> Stashed changes
         }
     }
 }

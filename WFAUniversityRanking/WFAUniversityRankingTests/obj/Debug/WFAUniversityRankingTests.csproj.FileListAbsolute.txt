@@ -12,3 +12,17 @@ E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\
 E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.csproj.CopyComplete
 E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.dll
 E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.pdb
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\WFAUniversityRankingTests.dll
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\WFAUniversityRankingTests.pdb
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\BusinessLogicLayer.dll
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\nunit.framework.dll
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\WFAUniversityRanking.exe
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\BusinessLogicLayer.pdb
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\WFAUniversityRanking.pdb
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\WFAUniversityRanking.exe.config
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\bin\Debug\nunit.framework.xml
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.csprojAssemblyReference.cache
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.csproj.CoreCompileInputs.cache
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.csproj.CopyComplete
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.dll
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRankingTests\obj\Debug\WFAUniversityRankingTests.pdb

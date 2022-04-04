@@ -11,3 +11,16 @@ E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\
 E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.csproj.CopyComplete
 E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.exe
 E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.pdb
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\bin\Debug\WFAUniversityRanking.exe.config
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\bin\Debug\WFAUniversityRanking.exe
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\bin\Debug\WFAUniversityRanking.pdb
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\bin\Debug\BusinessLogicLayer.dll
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\bin\Debug\BusinessLogicLayer.pdb
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.csprojAssemblyReference.cache
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.Form1.resources
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.Properties.Resources.resources
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.csproj.GenerateResource.cache
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.csproj.CoreCompileInputs.cache
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.csproj.CopyComplete
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.exe
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\WFAUniversityRanking\obj\Debug\WFAUniversityRanking.pdb

@@ -4,3 +4,9 @@ E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\
 E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
 E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 E:\ProgramProject\MSVisualStudio\GitHub\rating-calculation\WFAUniversityRanking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Program_Project\GitHub\rating-calculation\WFAUniversityRanking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
